@@ -3,6 +3,7 @@
 #
 # Примеры реализованных проектов и выполненных задач 
 ### (!для просмотра pdf придется их скачать, т.к. git не обрабатывает этот формат)
+##
 ## [UX-исследования и дизайн](https://github.com/danny-troph/danny-troph/tree/0cabec827b8b1d9efdfe0578248b8733d2ad7da2/UX)
 ### [Обзор разработки моб приложения](https://drive.google.com/file/d/1EN-TKajPvQ33nPapKq2m7HjJr283r5xC/view?usp=drive_link)
 #
