@@ -2,6 +2,13 @@
 #
 #
 # Примеры реализованных проектов и выполненных задач
+## [UX-исследования и дизайн](https://github.com/danny-troph/danny-troph/tree/0cabec827b8b1d9efdfe0578248b8733d2ad7da2/UX)
+#
+## [CX-исследования](https://github.com/danny-troph/danny-troph/tree/0cabec827b8b1d9efdfe0578248b8733d2ad7da2/CX)
+#
+## [QA](https://github.com/danny-troph/danny-troph/tree/0cabec827b8b1d9efdfe0578248b8733d2ad7da2/QA)
+#
+## [GameDev](https://github.com/danny-troph/danny-troph/tree/0cabec827b8b1d9efdfe0578248b8733d2ad7da2/GameDev)
 
 <!--
 **danny-troph/danny-troph** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
