@@ -1,5 +1,6 @@
+Меня зовут Даниил, UX/QA Enthusiast. Далее мое CV и примеры реализованных проектов
 ![Header](https://github.com/danny-troph/danny-troph/blob/57b50833bec66888d82078d976c23e95a4a8344e/UX_QA_CV.jpg)
-##### Меня зовут Даниил, UX/QA Enthusiast. Далее мое CV и примеры реализованных проектов
+
 
 <!--
 **danny-troph/danny-troph** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
