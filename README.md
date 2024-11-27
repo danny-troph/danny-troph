@@ -8,8 +8,8 @@
 ### [Обзор разработки моб приложения](https://drive.google.com/file/d/1EN-TKajPvQ33nPapKq2m7HjJr283r5xC/view?usp=drive_link)
 #
 #
-## 🔧 [QA](https://github.com/danny-troph/danny-troph/tree/c30d838d4795d5d30366d463cb36c2041cfbd2ed/QA)
-### [E.g. Тестовая документация](https://github.com/danny-troph/danny-troph/tree/0cabec827b8b1d9efdfe0578248b8733d2ad7da2/QA/CC)
+## 🔧 [QA](https://github.com/danny-troph/danny-troph/tree/main/QA)
+### [E.g. Тесты Web-приложения "CC"с DevTools и Postman](https://github.com/danny-troph/danny-troph/tree/0cabec827b8b1d9efdfe0578248b8733d2ad7da2/QA/CC)
 #
 #
 ## 📊 [CX-исследования](https://github.com/danny-troph/danny-troph/tree/c30d838d4795d5d30366d463cb36c2041cfbd2ed/CX)
