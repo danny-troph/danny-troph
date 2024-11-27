@@ -1,4 +1,4 @@
-![Header](https://github.com/danny-troph/danny-troph/blob/57b50833bec66888d82078d976c23e95a4a8344e/UXQA.jpg)
+![Header]([https://github.com/danny-troph/danny-troph/blob/57b50833bec66888d82078d976c23e95a4a8344e/UXQA.jpg](https://github.com/danny-troph/danny-troph/blob/c30d838d4795d5d30366d463cb36c2041cfbd2ed/UXQA.jpg)
 #
 #
 # Примеры реализованных проектов и выполненных задач (для просмотра pdf придется их скачать, т.к. git не обрабатывает этот формат)
