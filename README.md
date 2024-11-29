@@ -1,4 +1,4 @@
-![Header](https://github.com/danny-troph/danny-troph/blob/c30d838d4795d5d30366d463cb36c2041cfbd2ed/UXQA.jpg)
+![Header](https://github.com/danny-troph/danny-troph/blob/main/QA.jpg)
 #
 #
 #
